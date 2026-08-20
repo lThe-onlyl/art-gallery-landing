@@ -5,7 +5,7 @@ Responsive website for an art gallery.
 ## Technologies
 
 - HTML5
-- SCSS
+- CSS
 
 ## Features
 
